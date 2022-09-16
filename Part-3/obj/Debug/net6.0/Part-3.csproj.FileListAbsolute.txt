@@ -1,0 +1,15 @@
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\bin\Debug\net6.0\Part-3.exe
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\bin\Debug\net6.0\Part-3.deps.json
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\bin\Debug\net6.0\Part-3.runtimeconfig.json
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\bin\Debug\net6.0\Part-3.dll
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\bin\Debug\net6.0\Part-3.pdb
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.csproj.AssemblyReference.cache
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.AssemblyInfoInputs.cache
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.AssemblyInfo.cs
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.csproj.CoreCompileInputs.cache
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.dll
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\refint\Part-3.dll
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.pdb
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\Part-3.genruntimeconfig.cache
+C:\Users\Vonen\RiderProjects\LW-1\Part-3\obj\Debug\net6.0\ref\Part-3.dll
